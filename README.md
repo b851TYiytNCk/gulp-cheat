@@ -5,7 +5,7 @@ Gulp 4 Cheatsheet (with npm)
 
 List of packages to use with Gulp 4:  
 <ul>
-  <li style="color:lime">gulp</li>
+  <li>gulp</li>
   <li>gulp-autoprefixer</li>
   <li>gulp-clean-css</li>
   <li>gulp-rename</li>
@@ -13,7 +13,7 @@ List of packages to use with Gulp 4:
   <li>gulp-px2rem-converter</li>
   <li>gulp-sourcemaps</li>
   <li>gulp-minify</li>
-<ul>
+</ul>
   
 ### Commands to init and setup new gulp wokrspace:
 
